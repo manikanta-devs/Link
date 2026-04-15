@@ -1,5 +1,14 @@
 # Link
 
+## Getting started
+
+```bash
+npm install
+npm run dev      # start the dev server
+npm run build    # production build → dist/
+npm run preview  # preview the production build
+```
+
 ## Utilities
 
 ### `generateId()`
